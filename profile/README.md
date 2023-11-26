@@ -1,4 +1,4 @@
-![image](../assets/nations.png)
+<img width="1920" alt="Artboard_272x" src="https://github.com/mc-nations/.github/assets/44354000/5f00753e-a4cb-4d6e-bbd4-de5d02da147b">
 
 
 # Minecraft Nations
