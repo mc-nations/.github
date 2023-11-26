@@ -1,4 +1,4 @@
-![image](./../assets/nations.png)
+![image](../assets/nations.png)
 
 
 # Minecraft Nations
